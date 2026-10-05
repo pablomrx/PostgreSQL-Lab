@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Generated data
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
